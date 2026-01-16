@@ -1,1 +1,1 @@
-https://github.com/TimurK223/mesto-ad.git
+https://github.com/TimurK223/mesto.git
